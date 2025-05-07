@@ -5,3 +5,5 @@
 - Infinite
 - Frequency
 - Debouncing
+- Reverse String
+- Reverse Array
