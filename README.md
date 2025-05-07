@@ -4,3 +4,4 @@
 - Currying
 - Infinite
 - Frequency
+- Debouncing
