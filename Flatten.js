@@ -16,4 +16,4 @@ function flattenArr(arr, depth = Infinity) {
   return result;
 }
 
-console.log(flattenArr(arr));
+console.log(flattenArr(arr)); //depth is optional
