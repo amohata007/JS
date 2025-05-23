@@ -7,3 +7,8 @@
 - Debouncing
 - Reverse String
 - Reverse Array
+- Two Sum
+- Longest Substring
+- Palindrome
+- Anagram
+- Sub Array
