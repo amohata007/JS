@@ -14,3 +14,5 @@
 - Sub Array
 - Fibonacci
 - Target Achieve
+- Map Reduce Filter
+- Call Apply Bind
